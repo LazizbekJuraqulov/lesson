@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "41759384347",
+    "project_id": "chat-aeac0",
+    "storage_bucket": "chat-aeac0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41759384347:android:112b3b62ed81d8512e29be",
+        "android_client_info": {
+          "package_name": "com.example.lesson_6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41759384347-e9hatrr4d9okrqjfcuomrfqm9q6g4mn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIgCPciW9mlMUO6ATRD8bcHxP-Mj3LTyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41759384347-e9hatrr4d9okrqjfcuomrfqm9q6g4mn7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "41759384347-gr6u9kjltad9apfen6t4e7pui68rp16s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lesson6"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41759384347:android:aa72f2a8bf45ddf72e29be",
+        "android_client_info": {
+          "package_name": "com.example.lesson_9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41759384347-e9hatrr4d9okrqjfcuomrfqm9q6g4mn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIgCPciW9mlMUO6ATRD8bcHxP-Mj3LTyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41759384347-e9hatrr4d9okrqjfcuomrfqm9q6g4mn7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "41759384347-gr6u9kjltad9apfen6t4e7pui68rp16s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lesson6"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
